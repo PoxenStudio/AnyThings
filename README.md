@@ -1,5 +1,5 @@
 # AnyThings
-高可用性、可扩展、可自定义的AIoT平台。
+高可用、可扩展、可自定义的AIoT平台。
 
 <p align="center">
   <img src="documents/product_logo.png" alt="logo" width="128" height="128" />
@@ -91,7 +91,8 @@
 ![dashboard](documents/dashboard.jpg)
 
 * 基础UI视频展示
-(basic ui video)[https://www.bilibili.com/video/BV1bsxe65E7L]
+
+[basic ui video](https://www.bilibili.com/video/BV1bsxe65E7L)
 
 
 ---
